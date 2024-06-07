@@ -1,4 +1,4 @@
-# [Submitted to NIPS2024 Dataset & Benchmark Track]. 🚀
+# AFBench: A Large-scale Benchmark for Airfoil Design 🚀
 
 ## 👀Introduction
 
