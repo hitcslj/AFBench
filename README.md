@@ -2,7 +2,7 @@
 
 ## 👀Introduction
 
-This repository contains the training/evaluate code and data for our paper `AFBench: A Large-scale Benchmark for Airfoil Design`.
+This repository contains the training/evaluate code and data for our paper [AFBench: A Large-scale Benchmark for Airfoil Design](https://arxiv.org/abs/2406.18846).
 
 - **For airfoil generation and editing demo, check [airfoil-demo](https://github.com/hitcslj/airfoil-demo) repo.**
 
@@ -136,5 +136,13 @@ This repository is licensed under the [Apache-2.0 License](LICENSE).
 If you find this code useful, please consider citing our work:
 
 ```bibtex
-
+@misc{liu2024afbenchlargescalebenchmarkairfoil,
+      title={AFBench: A Large-scale Benchmark for Airfoil Design}, 
+      author={Jian Liu and Jianyu Wu and Hairun Xie and Guoqing Zhang and Jing Wang and Wei Liu and Wanli Ouyang and Junjun Jiang and Xianming Liu and Shixiang Tang and Miao Zhang},
+      year={2024},
+      eprint={2406.18846},
+      archivePrefix={arXiv},
+      primaryClass={cs.CE},
+      url={https://arxiv.org/abs/2406.18846}, 
+}
 ```
