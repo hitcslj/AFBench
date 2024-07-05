@@ -13,9 +13,9 @@ AFBench: A Large-scale Benchmark for Airfoil Design
 
 - [x] Training data.
 - [x] baselins models.
-- []  Evaluation code.
-- []  Training code.
-- [] Pretrain weights.
+- [ ]  Evaluation code.
+- [ ]  Training code.
+- [ ] Pretrain weights.
 
 ## News
 - 2024-07-05: The Wing-Wing Aircraft Wing Generation System makes its debut at WAIC 2024.
